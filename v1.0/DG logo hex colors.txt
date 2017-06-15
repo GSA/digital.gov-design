@@ -1,0 +1,32 @@
+HTML Hex Color Codes via Photoshop 
+
+left teal 'D' swoop
+medium #006873
+dark #003333
+light #009999
+
+right salmon/peach 'G' swoop
+medium #ff685f
+dark #ff3333
+light #ff9999
+
+
+Digital #0b545d
+Gov #ff3333
+
+
+https://digitalgov.sites.usa.gov/files/2014/01/logo2.png 
+http://www.digitalgov.gov/files/2014/01/logo2.png
+
+top nav
+Trebuchet, Tahoma, sans-serif
+nav: 9pt, bold
+
+Category nav
+Arial, helvetica, sans-serif
+9pt, normal
+
+Basic Style: Post title, Page font
+Trebuchet, Tahoma, sans-serif
+
+Main content & Sidebar font size not set (8 - 12pt)

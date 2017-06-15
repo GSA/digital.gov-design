@@ -1,0 +1,13 @@
+The font HelveticaNeue-Bold is missing.  Affected text will be displayed using a substitute font.
+The font HelveticaNeue-Medium is missing.  Affected text will be displayed using a substitute font.
+The font HelveticaNeue-Thin is missing.  Affected text will be displayed using a substitute font.
+The font HelveticaNeue-ThinItalic is missing.  Affected text will be displayed using a substitute font.
+
+
+Lato-Light:
+
+Font not found on the system; missing font has been substituted.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Lato-LightItalic:
+
+Font not found on the system; missing font has been substituted.
